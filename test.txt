@@ -1,0 +1,1 @@
+collgame.dto.Dragon{id=-3783276203391895068, name='w', coordinates=Coordinates{x=1.0, y=1}, creationDate=2023-05-20T03:17:04.938192+04:00[Asia/Tbilisi], age=1, weight=1.0, type=DragonType{}, character=DragonCharacter{}, head=DragonHead{eyesCount=1}}
